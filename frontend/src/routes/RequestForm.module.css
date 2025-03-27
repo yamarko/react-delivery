@@ -1,0 +1,103 @@
+.form {
+  background-color: rgb(214, 82, 186);
+  padding: 2rem;
+  width: 25rem;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: rgb(241, 221, 237);
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.form input,
+.form textarea {
+  display: block;
+  width: 100%;
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: none;
+  background-color: rgb(243, 207, 234);
+  color: rgb(61, 15, 55);
+}
+
+.form select {
+  display: block;
+  width: 100%;
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: none;
+  background-color: rgb(243, 207, 234);
+  color: rgb(61, 15, 55);
+  cursor: pointer;
+}
+
+.form select:hover {
+  background-color: rgb(233, 190, 224);
+}
+
+.form select:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(196, 54, 166, 0.7);
+}
+
+.form select option {
+  background-color: rgb(243, 207, 234);
+  color: rgb(61, 15, 55);
+}
+
+.form input[type="date"] {
+  display: block;
+  width: 100%;
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: none;
+  background-color: rgb(243, 207, 234);
+  color: rgb(61, 15, 55);
+}
+
+.form input[type="date"]:hover {
+  background-color: rgb(233, 190, 224);
+}
+
+.form input[type="date"]:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(196, 54, 166, 0.7);
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem 1rem 0 1rem;
+  font-size: 1.2rem;
+}
+
+.actions button {
+  cursor: pointer;
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(196, 54, 166);
+  color: rgb(241, 221, 237);
+}
+
+.actions button:hover {
+  background-color: rgb(177, 45, 148);
+}
+
+.actions a {
+  background-color: transparent;
+  text-decoration: none;
+  color: rgb(241, 221, 237);
+}
+
+.actions a:hover {
+  color: rgb(219, 166, 209);
+}

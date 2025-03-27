@@ -1,0 +1,46 @@
+.confirmation {
+  background-color: rgb(214, 82, 186);
+  padding: 2rem;
+  width: 20rem;
+  text-align: center;
+}
+
+.confirmation h2 {
+  color: rgb(241, 221, 237);
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 1.1rem;
+}
+
+.actions button {
+  cursor: pointer;
+  font: inherit;
+  padding: 0.5rem 1.1rem;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(196, 54, 166);
+  color: rgb(241, 221, 237);
+}
+
+.actions button:hover {
+  background-color: rgb(177, 45, 148);
+}
+
+.actions .cancelButton {
+  padding: 0.5rem 1.1rem;
+  background-color: transparent;
+  text-decoration: none;
+  color: rgb(241, 221, 237);
+}
+
+.actions .cancelButton:hover {
+  color: rgb(219, 166, 209);
+}
+
+

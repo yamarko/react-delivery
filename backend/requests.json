@@ -1,0 +1,66 @@
+[
+  {
+    "fromCity": "MetroCity",
+    "toCity": "CentralCity",
+    "parcelType": "Medicines",
+    "dispatchDate": "15.01.2026",
+    "parcelDescription": "Speed potion!",
+    "id": "0.9607745081198871"
+  },
+  {
+    "fromCity": "CityOf",
+    "toCity": "CityTo",
+    "parcelType": "Other",
+    "dispatchDate": "06.08.2025",
+    "parcelDescription": "Parcel description Parcel description Parcel description Parcel description Parcel description Parcel description Parcel description",
+    "id": "0.17879248204642106"
+  },
+  {
+    "fromCity": "City4",
+    "toCity": "City5",
+    "parcelType": "Clothes",
+    "dispatchDate": "18.06.2025",
+    "parcelDescription": "Parcel description text",
+    "id": "0.3815063096138245"
+  },
+  {
+    "fromCity": "Vinnytsia",
+    "toCity": "Odesa",
+    "parcelType": "Other",
+    "dispatchDate": "20.04.2025",
+    "parcelDescription": "Top secret",
+    "id": "0.2811786239763838"
+  },
+  {
+    "fromCity": "City3",
+    "toCity": "City4",
+    "parcelType": "Medicines",
+    "dispatchDate": "07.05.2025",
+    "parcelDescription": "Parcel description here",
+    "id": "0.7805223798032204"
+  },
+  {
+    "fromCity": "Kyiv",
+    "toCity": "Lviv",
+    "parcelType": "Clothes",
+    "dispatchDate": "01.04.2025",
+    "parcelDescription": "Important documentation",
+    "id": "0.5843734792965469"
+  },
+  {
+    "fromCity": "City2",
+    "toCity": "City3",
+    "parcelType": "Drinks",
+    "dispatchDate": "03.04.2025",
+    "parcelDescription": "Parcel description2",
+    "id": "0.23165679550150053"
+  },
+  {
+    "fromCity": "City1",
+    "toCity": "City2",
+    "parcelType": "Gadgets",
+    "dispatchDate": "30.03.2025",
+    "parcelDescription": "Parcel description1",
+    "id": "0.9453484762115283"
+  }
+]
